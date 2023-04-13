@@ -32,7 +32,7 @@
       <body>
          <mdiv xml:id="mi3kjfk">
             <score xml:id="swwo5yp">
-               <scoreDef xml:id="s10rzvi" spacing.staff="20.000000vu" ending.rend="top" optimize="true">
+               <scoreDef xml:id="s10rzvi" spacing.staff="12.000000vu" ending.rend="top" optimize="true">
                   <staffGrp xml:id="s3o8nby">
                      <staffGrp xml:id="sjfoijq" bar.thru="true">
                         <grpSym xml:id="gkmjoln" symbol="bracket" />
