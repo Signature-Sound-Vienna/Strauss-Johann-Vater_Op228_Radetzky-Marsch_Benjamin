@@ -5,8 +5,8 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Radetzky Marsch</title>
-            <title type="desc"> op. 228</title>
+            <title>Radetzky-Marsch</title>
+            <title type="desc">Op. 228</title>
             <respStmt>
                <persName role="composer">Johann Strauss (Vater)</persName>
                <persName role="arranger">Leopold Weninger</persName>
@@ -32,7 +32,7 @@
       <body>
          <mdiv xml:id="mi3kjfk">
             <score xml:id="swwo5yp">
-               <scoreDef xml:id="s10rzvi" spacing.staff="8.000000vu" ending.rend="top" optimize="true">
+               <scoreDef xml:id="s10rzvi" spacing.staff="12.000000vu" ending.rend="top" optimize="true">
                   <staffGrp xml:id="s3o8nby">
                      <staffGrp xml:id="sjfoijq" bar.thru="true">
                         <grpSym xml:id="gkmjoln" symbol="bracket" />
@@ -213,7 +213,9 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="all">
-                  <expansion xml:id="expansion-default" plist="#Marsch #Trio-withRep #Marsch"/>
+                  <expansion xml:id="expansion-default" plist="#Marsch #Trio-A #Trio-B #Trio-B1 #Trio-B #Trio-B2 #Marsch"/>
+                  <expansion xml:id="expansion-hierarchical" plist="#Marsch #expansion-Trio-default #Marsch"/>
+                  <expansion xml:id="expansion-marschmarsch" plist="#Marsch #Marsch"/>
                   <section xml:id="Marsch">
                      <measure xml:id="mqa4k98" n="1">
                         <staff xml:id="scgq8f0" n="1">
