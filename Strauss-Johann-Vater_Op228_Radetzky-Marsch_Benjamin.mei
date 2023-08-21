@@ -32,7 +32,7 @@
       <body>
          <mdiv xml:id="mi3kjfk">
             <score xml:id="swwo5yp">
-               <scoreDef xml:id="s10rzvi" spacing.staff="12.000000vu" ending.rend="top" optimize="true">
+               <scoreDef xml:id="s10rzvi" spacing.staff="8.000000vu" ending.rend="top" optimize="true">
                   <staffGrp xml:id="s3o8nby">
                      <staffGrp xml:id="sjfoijq" bar.thru="true">
                         <grpSym xml:id="gkmjoln" symbol="bracket" />
@@ -213,7 +213,7 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="all">
-                  <expansion xml:id="Expansion" plist="#Marsch #Trio-withRep #Marsch"/>
+                  <expansion xml:id="expansion-default" plist="#Marsch #Trio-withRep #Marsch"/>
                   <section xml:id="Marsch">
                      <measure xml:id="mqa4k98" n="1">
                         <staff xml:id="scgq8f0" n="1">
@@ -14044,7 +14044,7 @@
                      <pb xml:id="pi9vhlk" />
                   </section>
                   <section xml:id="Trio">
-                     <expansion xml:id="Trio-withRep" plist="#Trio-A #Trio-B #Trio-B-ending1 #Trio-B #Trio-B-ending2"/>
+                     <expansion xml:id="expansion-Trio-default" plist="#Trio-A #Trio-B #Trio-B1 #Trio-B #Trio-B2"/>
                      <section xml:id="Trio-A">
                         <scoreDef xml:id="semqv9w">
                            <staffGrp xml:id="s5719gh">
@@ -22555,7 +22555,7 @@
                            <slur xml:id="s9bh9pj" startid="#n55zydd" endid="#nwvjsj8" curvedir="above" />
                         </measure>
                      </section>
-                     <ending xml:id="Trio-B-ending1" lendsym="angledown" n="1.">
+                     <ending xml:id="Trio-B1" lendsym="angledown" n="1.">
                         <measure xml:id="m57m3en" right="rptend" n="88">
                            <staff xml:id="sbwui5o" n="1">
                               <layer xml:id="lochmjp" n="1">
@@ -22818,7 +22818,7 @@
                            <slur xml:id="sjllrpa" startid="#ni5nxzi" endid="#nbzue4d" curvedir="above" />
                         </measure>
                      </ending>
-                     <ending xml:id="Trio-B-ending2" lendsym="angledown" n="2.">
+                     <ending xml:id="Trio-B2" lendsym="angledown" n="2.">
                         <measure xml:id="mj4x3lj" right="end" n="89">
                            <staff xml:id="swf8vhs" n="1">
                               <layer xml:id="ly4pl0v" n="1">
