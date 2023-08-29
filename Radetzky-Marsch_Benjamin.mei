@@ -15,8 +15,19 @@
          <pubStmt>
             <date isodate="2022-02-08" type="encoding-date">2022-02-08</date>
             <respStmt>
-               <persName role="encoder">Matthäus Pescoller</persName>
+               <persName xml:id="Matthaeus_Pescoller" role="encoder">Matthäus Pescoller</persName>
+               <persName xml:id="Delilah_Rammler" role="encoder">Delilah Rammler</persName>
+               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+               <persName xml:id="David_M_Weigl" role="encoder">David M. Weigl</persName>
             </respStmt>
+            <publisher>
+               <corpName>Benjamin-Verlag</corpName>
+               <address>
+                  <addrLine>Leipzig</addrLine>
+                  <addrLine>Germany</addrLine>
+               </address>
+               <date>1914</date>
+            </publisher>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-dq2cfo">
