@@ -1,6 +1,6 @@
 ## ![CC-BY-4.0](https://i.creativecommons.org/l/by/4.0/88x31.png) Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
 
-This work is released by the licensors, David M. Weigl, Werner Goebl, Matthäus Pescoller, Delilah Rammler, mdw -- University of Music and Performing Arts Vienna, on behalf of the FWF Signature Sound Vienna Project under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.
+This work is released by the licensors, David M. Weigl, Werner Goebl, Matthäus Pescoller, Delilah Rammler, mdw – University of Music and Performing Arts Vienna, on behalf of the FWF Signature Sound Vienna Project under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.
 
 The license is available at https://creativecommons.org/licenses/by/4.0/legalcode
 
