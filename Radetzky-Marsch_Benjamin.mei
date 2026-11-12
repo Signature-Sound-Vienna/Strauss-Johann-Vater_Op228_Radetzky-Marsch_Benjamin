@@ -69,7 +69,7 @@
                               <keySig xml:id="karvh9n" sig="2s"/>
                               <meterSig xml:id="m6ht4cn" count="2" sym="cut" unit="2"/>
                            </staffDef>
-                           <staffDef xml:id="P2" lines="5" n="2" ppq="4">
+                           <staffDef xml:id="P2" lines="5" n="2" ppq="4" trans.diat="7" trans.semi="12">
                               <label xml:id="lwofxav">Piccolo</label>
                               <labelAbbr xml:id="l4twlfc">Picc.</labelAbbr>
                               <instrDef xml:id="i8uqohc" midi.channel="1" midi.instrnum="72" midi.volume="78.00%"/>
@@ -224,7 +224,7 @@
                            <keySig xml:id="k4c4r3h" sig="2s"/>
                            <meterSig xml:id="mul5wde" count="2" sym="cut" unit="2"/>
                         </staffDef>
-                        <staffDef xml:id="P19" lines="5" n="19" ppq="4">
+                        <staffDef xml:id="P19" lines="5" n="19" ppq="4" trans.diat="-7" trans.semi="-12">
                            <label xml:id="l53m891">Kontrabass</label>
                            <labelAbbr xml:id="luhe5wj">Kb.</labelAbbr>
                            <instrDef xml:id="i2krgyd" midi.channel="10" midi.instrnum="43" midi.volume="78.00%"/>
